@@ -1,39 +1,44 @@
 ---
-title: 'BioHackEU23 report: Template for the very long title'
-title_short: 'BioHackEU23 #26: unknown chemical substances'
+title: 'BioHackEU24 report: Recognising research software contributions leveraging the ELIXIR infrastructure'
+title_short: 'BioHackEU24 #25: Software contributions in APICURON'
 tags:
-  - cheminformatics
-  - PubChem
-  - unknown chemical substances
+  - APICURON
+  - research recognition
+  - OpenEBench
+  - ELIXIR
 authors:
-  - name: First Author
+  - name: Adel Bouhraoua
+    orcid: 0000-0001-9531-6339
     affiliation: 1
-  - name: Last Author
-    orcid: 0000-0000-0000-0000
+  - name: Gavin Farrel
+    orcid: 
+    affiliation: 1
+  - name: José M. Fernández
+    orcid: 0000-0002-4806-5140
     affiliation: 2
 affiliations:
-  - name: First Affiliation
+  - name: BioComputingUP, University of Padova
     index: 1
-  - name: Second Affiliation
+  - name: Barcelona Supercomputing Center (BSC), ELIXIR Spain, Barcelona, Spain
     index: 2
-date: 8 November 2023
+date: 8 November 2024
 cito-bibliography: paper.bib
-event: BH23EU
-biohackathon_name: "BioHackathon Europe 2023"
+event: BH24EU
+biohackathon_name: "BioHackathon Europe 2024"
 biohackathon_url:   "https://biohackathon-europe.org/"
-biohackathon_location: "Barcelona, Spain, 2023"
-group: Project 26
+biohackathon_location: "Barcelona, Spain, 2024"
+group: Project 25
 # URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/biohackrxiv/publication-template
+git_url: https://github.com/inab/BioHackEU24_project_25_preprint
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
-authors_short: First Author \emph{et al.}
+authors_short: Bouhraoua \emph{et al.}
 ---
 
 
 # Introduction
 
-As part of the BioHackathon Europe 2023, we here report...
+As part of the BioHackathon Europe 2024, we here report...
 
 # Formatting
 
